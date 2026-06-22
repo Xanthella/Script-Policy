@@ -16,12 +16,17 @@ Our userscripts **do not collect, store, or transmit any personal data** from us
 
 Our userscripts are designed to enhance or modify website functionality locally within your browser. All processing happens on your device.
 
-## 4. Monetization
+## 4. Monetization and Operational Activities
 
-Some of our userscripts may generate revenue through methods such as affiliate links, embedded features, or integrations.
+Some of our userscripts may generate revenue or support operational activities through methods such as:
 
-- This monetization does **not involve collecting or selling user data**  
-- Any earnings are generated through interactions with supported services or platforms  
+Affiliate commissions
+- Sponsored integrations or partnerships
+- Cryptocurrency-related features, services, or integrations
+- Other technologies that help support the development and maintenance of our userscripts
+- These activities do not involve collecting, selling, or sharing your personal data.
+
+By installing and using our userscripts, you acknowledge and agree that the script may perform monetization-related activities as described above. If you do not agree with these terms, please do not install, use, or continue using the userscript, and disable or remove it from your browser.
 
 ## 5. Third-Party Services
 
